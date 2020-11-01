@@ -1,3 +1,3 @@
 # Instagram-Redesign
 
-![GitHub Logo](/images/insta.mp4)
+![GitHub Logo](/images/insta.gif)
