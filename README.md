@@ -2,6 +2,8 @@
 
 ![GitHub Logo](/images/insta.gif)
 
+# LICENSE
+
 MIT License
 
 Copyright (c) 2020 kerimkeskin
